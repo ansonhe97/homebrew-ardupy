@@ -4,8 +4,8 @@
 class Ardupy < Formula
   desc "👭 👭  ArduPy makes MicroPython  and Arduino work together perfectly."
   homepage ""
-  url "https://github.com/ansonhe97/ArduPy/releases/download/0.0.2/aip"
-  sha256 "427ce7fd793218ca190b7bdf768060065b4459fafa7def4a226e73be40e804e2"
+  url "https://github.com/ansonhe97/ArduPy/releases/download/0.0.3/aip"
+  sha256 "b4ff7ce5f4b75a6bb70080160b754b8a639c9058e06f28855223be87d6485c6e"
 
   # depends_on "cmake" => :build
 
